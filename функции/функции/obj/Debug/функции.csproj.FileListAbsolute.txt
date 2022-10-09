@@ -1,0 +1,8 @@
+C:\Users\ПК\Desktop\консольные приложения\функции\функции\bin\Debug\функции.exe.config
+C:\Users\ПК\Desktop\консольные приложения\функции\функции\bin\Debug\функции.exe
+C:\Users\ПК\Desktop\консольные приложения\функции\функции\bin\Debug\функции.pdb
+C:\Users\ПК\Desktop\консольные приложения\функции\функции\obj\Debug\функции.csproj.AssemblyReference.cache
+C:\Users\ПК\Desktop\консольные приложения\функции\функции\obj\Debug\функции.csproj.SuggestedBindingRedirects.cache
+C:\Users\ПК\Desktop\консольные приложения\функции\функции\obj\Debug\функции.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\консольные приложения\функции\функции\obj\Debug\функции.exe
+C:\Users\ПК\Desktop\консольные приложения\функции\функции\obj\Debug\функции.pdb

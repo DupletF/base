@@ -1,0 +1,8 @@
+C:\Users\ПК\Desktop\консольные приложения\Styding\Styding\bin\Debug\Styding.exe.config
+C:\Users\ПК\Desktop\консольные приложения\Styding\Styding\bin\Debug\Styding.exe
+C:\Users\ПК\Desktop\консольные приложения\Styding\Styding\bin\Debug\Styding.pdb
+C:\Users\ПК\Desktop\консольные приложения\Styding\Styding\obj\Debug\Styding.csproj.AssemblyReference.cache
+C:\Users\ПК\Desktop\консольные приложения\Styding\Styding\obj\Debug\Styding.csproj.SuggestedBindingRedirects.cache
+C:\Users\ПК\Desktop\консольные приложения\Styding\Styding\obj\Debug\Styding.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\консольные приложения\Styding\Styding\obj\Debug\Styding.exe
+C:\Users\ПК\Desktop\консольные приложения\Styding\Styding\obj\Debug\Styding.pdb
